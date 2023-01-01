@@ -1,0 +1,35 @@
+body{
+
+    background-image: url(./pexels-ingo-joseph-21627.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    }
+    
+    .row{
+    
+    margin-top: 200px;
+    
+    }
+    
+    
+    .create-wrap{
+        margin-top: 80px;
+    }
+
+    
+
+    
+    .heading2{
+        margin-top: 80px;
+        background-color: black;
+        opacity: 0.7;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+    
+    
